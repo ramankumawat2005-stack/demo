@@ -40,3 +40,7 @@ var randomNumber = Math.random();
 console.log('Random number between 0 and 1: ' + randomNumber);
 var roundedNumber = Math.round(randomNumber * 100);
 console.log('Random number rounded to nearest integer: ' + roundedNumber);
+
+// Array
+var fruits = ['Apple', 'Banana', 'Cherry'];
+console.log('Fruits array: ' + fruits);
